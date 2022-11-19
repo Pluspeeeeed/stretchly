@@ -65,7 +65,7 @@ app.setAppUserModelId('net.hovancik.stretchly')
 
 global.shared = {
   isNewVersion: false,
-  isContributor: false
+  isContributor: true
 }
 
 const commandLineArguments = process.argv
